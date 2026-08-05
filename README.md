@@ -1,18 +1,24 @@
 <!-- ========================= -->
-# Hi there 👋, I'm Asir Rafique
+
+Hi there 👋, I'm Asir Rafique
 
 <h3 align="center">
+
 Full Stack Developer • AI Enthusiast • Computer Science Graduate
+
 </h3>
 
 <p align="center">
-Building scalable web applications, AI-powered solutions, and continuously learning modern technologies.
+
+Building scalable web applications, AI-powered solutions, andcontinuously learning modern technologies.
+
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asirrafique&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
+<img src="https://komarev.com/ghpvc/?username=asirrafique&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>{=html}
+
+</p>
 ---
 
 # 💫 About Me
