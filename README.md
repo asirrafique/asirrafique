@@ -149,7 +149,5 @@ Building scalable web applications, AI-powered solutions, and continuously learn
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/asirrafique/asirrafique/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/asirrafique/asirrafique/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Snake animation" />
 </p>
-
----
