@@ -23,8 +23,8 @@ I'm a passionate **Full Stack Developer** and **Computer Science Graduate** who 
 
 - 🚀 Passionate about Full Stack Development & Artificial Intelligence
 - 🌱 Currently exploring **Generative AI, LLMs, AI Agents & MCP**
-- 💻 Experienced with the **MERN Stack**
-- 🤖 Building AI applications using **Google Gemini API**, **OpenAI API**, and modern AI tools
+- 💻 Experienced with the **MERN Stack**                                                                          
+- 🤖 Building AI applications using **Google Gemini API**, **OpenAI API**, and modern AI tools                 
 - 🎯 Interested in scalable backend architecture, responsive UI, and cloud deployment
 - 📚 Constantly learning new technologies and improving problem-solving skills
 - ⚡ Fun Fact: I enjoy transforming ideas into real-world applications.
@@ -59,7 +59,7 @@ I'm a passionate **Full Stack Developer** and **Computer Science Graduate** who 
 
 ### Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)     
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -102,6 +102,27 @@ I'm a passionate **Full Stack Developer** and **Computer Science Graduate** who 
 
 ---
 
+# 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=asirrafique&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asirrafique&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=asirrafique&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=asirrafique&theme=algolia&no-frame=true&row=1&column=7"/>
+</p>
+
+---
 
 # 📈 Contribution Graph
 
