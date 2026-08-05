@@ -145,3 +145,11 @@ Building scalable web applications, AI-powered solutions, and continuously learn
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/asirrafique/asirrafique/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
