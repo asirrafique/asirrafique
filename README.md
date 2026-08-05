@@ -101,21 +101,6 @@ I'm a passionate **Full Stack Developer** and **Computer Science Graduate** who 
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=asirrafique&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=asirrafique&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=asirrafique&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=asirrafique&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
-
----
 
 # 📈 Contribution Graph
 
@@ -126,16 +111,5 @@ I'm a passionate **Full Stack Developer** and **Computer Science Graduate** who 
 # ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-# 🔥 Current Focus
-
-- 🤖 Generative AI
-- 🧠 Large Language Models (LLMs)
-- ⚡ AI Agents
-- 🌐 Full Stack Development
-- ☁️ Cloud Deployment
-- 🚀 Open Source
 
 ---
