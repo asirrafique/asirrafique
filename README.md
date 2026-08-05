@@ -101,22 +101,6 @@ I'm a passionate **Full Stack Developer** and **Computer Science Graduate** who 
 
 ---
 
-# 🚀 Featured Projects
-
-### 🍽️ FoodMesh
-Enterprise-grade Multi-Tenant Restaurant Management SaaS inspired by UrbanPiper.
-
-### 🏨 Wanderlust
-Airbnb-inspired Full Stack Hotel Booking Platform built using MERN technologies.
-
-### 🎥 Meetlify
-Real-time Video Conferencing platform with authentication, chat, and video calling.
-
-### 🌐 Portfolio
-Modern Developer Portfolio built with React, Vite, Tailwind CSS, and Framer Motion.
-
----
-
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=asirrafique&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true)
@@ -155,11 +139,3 @@ Modern Developer Portfolio built with React, Vite, Tailwind CSS, and Framer Moti
 - 🚀 Open Source
 
 ---
-
-<p align="center">
-
-### Thanks for visiting ❤️
-
-If you like my work, consider giving a ⭐ to my repositories!
-
-</p>
