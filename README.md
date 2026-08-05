@@ -1,282 +1,178 @@
-````markdown
-# 👋 Hi, I'm Asir Rafique
-
+```markdown
 <div align="center">
+
+# Hi 👋, I'm Asir Rafique
 
 ### 🚀 Full Stack Developer | AI & GenAI Developer | B.Tech CSE Graduate
 
-<p>
-  <a href="https://portfolio-asir3.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-000?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/asirrafique" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/asir-rafique07" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Generative+AI+Developer;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies" alt="Typing SVG" />
+
+<p align="center">
+<a href="https://portfolio-asir3.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-00bfff?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/asir-rafique07">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/asirrafique">
+<img src="https://img.shields.io/github/followers/asirrafique?style=for-the-badge"/>
+</a>
+
 </p>
 
 </div>
 
 ---
 
-# 📖 About
+# 💫 About Me
 
-Welcome to my personal portfolio repository.
-
-This portfolio showcases my projects, technical skills, certifications, and experience in Full Stack Development and Artificial Intelligence.
-
-It is built with modern web technologies to provide a fast, responsive, and interactive user experience.
-
----
-
-# 🌐 Live Demo
-
-### 🔗 https://portfolio-asir3.vercel.app/
+- 🎓 B.Tech Computer Science Graduate
+- 💻 Full Stack Developer passionate about building scalable web applications
+- 🤖 Exploring AI, Generative AI & LLM-powered applications
+- 🌱 Currently learning advanced system design, cloud technologies, and AI integrations
+- 🚀 Building real-world projects using the MERN Stack
+- 🎯 Goal: Become a Software Engineer specializing in Full Stack & AI
 
 ---
 
-# ✨ Features
+# 🚀 Tech Stack
 
-- Modern Responsive UI
-- Beautiful Animations
-- Dark Theme
-- Interactive Project Showcase
-- Skills Section
-- Experience Timeline
-- Certifications
-- Contact Section
-- Resume Download
-- Mobile Friendly
-- Fast Performance
-- SEO Friendly
+## Languages
 
----
-
-# 🛠 Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=javascript,python,html,css"/>
+</p>
 
 ## Frontend
 
-- React.js
-- Vite
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Tailwind CSS
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite"/>
+</p>
 
-## Libraries
+## Backend
 
-- Framer Motion
-- AOS Animation
-- React Icons
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
 
-## Deployment
+## Database
 
-- Vercel
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+</p>
 
----
+## AI & Tools
 
-# 📂 Folder Structure
-
-```text
-Portfolio/
-│
-├── public/
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── data/
-│   ├── pages/
-│   ├── App.jsx
-│   └── main.jsx
-│
-├── package.json
-├── vite.config.js
-└── README.md
-```
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+</p>
 
 ---
 
-# 🚀 Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/asirrafique/Portfolio.git
-```
-
-Move into the project
-
-```bash
-cd Portfolio
-```
-
-Install dependencies
-
-```bash
-npm install
-```
-
-Run locally
-
-```bash
-npm run dev
-```
-
-Build for production
-
-```bash
-npm run build
-```
-
-Preview production build
-
-```bash
-npm run preview
-```
-
----
-
-# 💻 Featured Projects
+# 🏆 Featured Projects
 
 ## 🍽 FoodMesh
 
-Enterprise-grade Restaurant Management & Food Ordering SaaS Platform featuring:
+Enterprise-grade Multi-Tenant Restaurant Management SaaS
 
-- Multi-Tenant Architecture
-- Role-Based Authentication
+- Multi-Outlet Management
 - Inventory Management
-- Order Management
 - Customer Management
-- Outlet Management
-- Dashboard Analytics
+- Staff Management
+- RBAC Authentication
+- Modern Dashboard
 
 ---
 
 ## 🌍 Wanderlust
 
-Airbnb-inspired travel booking platform.
-
-Features:
+Airbnb-inspired Hotel Booking Platform
 
 - Authentication
 - CRUD Operations
-- Interactive Maps
-- Image Upload
 - Reviews
-- Cloud Storage
+- Cloudinary Integration
+- Mapbox
 - Responsive UI
 
 ---
 
 ## 🤖 NovaGPT
 
-AI-powered chatbot built using modern AI APIs with a clean and responsive interface.
+Modern AI Chat Application
+
+- AI Conversations
+- Responsive Design
+- Fast Performance
+- Modern UI
 
 ---
 
-# 🎓 Certifications
+# 📊 GitHub Stats
 
-- Delta Full Stack Web Development
-- Google Generative AI
-- Prompt Engineering
-- AI Application Development
+<p align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=asirrafique&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-# 🧠 Skills
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asirrafique&layout=compact&theme=tokyonight&hide_border=true"/>
 
-### Languages
+</p>
 
-- JavaScript
-- Python
-- HTML
-- CSS
+<p align="center">
 
-### Frontend
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asirrafique&theme=tokyonight&hide_border=true"/>
 
-- React.js
-- Tailwind CSS
-- Bootstrap
-
-### Backend
-
-- Node.js
-- Express.js
-
-### Database
-
-- MongoDB
-- Mongoose
-
-### AI
-
-- Google Gemini
-- Prompt Engineering
-- Generative AI
-
-### Tools
-
-- Git
-- GitHub
-- Vercel
-- VS Code
-- Postman
+</p>
 
 ---
 
-# 📈 Portfolio Highlights
+# 🏅 GitHub Trophies
 
-- Fully Responsive
-- Optimized Performance
-- Smooth Animations
-- Modern Design
-- Clean Code
-- Reusable Components
-- SEO Optimized
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=asirrafique&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
 
 ---
 
-# 📬 Contact
+# 📈 Contribution Graph
 
-### Asir Rafique
+<p align="center">
 
-📧 Email:
-your-email@example.com
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asirrafique&theme=tokyo-night"/>
 
-🌐 Portfolio
-
-https://portfolio-asir3.vercel.app/
-
-LinkedIn
-
-https://www.linkedin.com/in/asir-rafique07
-
-GitHub
-
-https://github.com/asirrafique
+</p>
 
 ---
 
-# ⭐ Support
+# 🌐 Connect with Me
 
-If you like this project, consider giving it a ⭐ on GitHub.
+<p align="center">
 
----
+<a href="https://portfolio-asir3.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
+</a>
 
-# 📄 License
+<a href="https://www.linkedin.com/in/asir-rafique07">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-This project is licensed under the MIT License.
+<a href="https://github.com/asirrafique">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### Thank you for visiting my Portfolio ❤️
+### 💡 "Code. Learn. Build. Repeat."
 
-Made with React + Vite + Tailwind CSS
+⭐ Thanks for visiting my profile!
 
 </div>
-````
-
+```
