@@ -9,45 +9,44 @@ Building scalable web applications, AI-powered solutions, and continuously learn
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asirrafique&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+Generative+AI+Enthusiast;Open+Source+Learner;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=asirrafique&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-Hi, I'm **Asir Rafique** 👋
-
-I'm a passionate **Full Stack Developer** and **Computer Science Graduate** who enjoys building modern web applications, scalable backend systems, and AI-powered products.
-
-- 🚀 Passionate about Full Stack Development & Artificial Intelligence
-- 🌱 Currently exploring **Generative AI, LLMs, AI Agents & MCP**
-- 💻 Experienced with the **MERN Stack**                                                                          
-- 🤖 Building AI applications using **Google Gemini API**, **OpenAI API**, and modern AI tools                 
-- 🎯 Interested in scalable backend architecture, responsive UI, and cloud deployment
-- 📚 Constantly learning new technologies and improving problem-solving skills
-- ⚡ Fun Fact: I enjoy transforming ideas into real-world applications.
-
+- 🚀 Full Stack Developer passionate about building scalable web applications
+- 🤖 Exploring Generative AI, LLMs, AI Agents & MCP
+- 💻 Skilled in MERN Stack, React, Node.js, Express & MongoDB
+- 🌱 Building AI apps using Google Gemini API & OpenAI API
+- ☁️ Interested in Cloud, Backend Architecture & System Design
+- 📚 Always learning and improving problem-solving skills
+- 🎯 Goal: Software Engineer specializing in Full Stack Development & AI
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
 
-<a href="https://linkedin.com/in/asir-rafique07" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/iam.asirr" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://linkedin.com/in/asir-rafique07">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
 
 <a href="mailto:asirrafique1@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+</a>
+
+<a href="https://instagram.com/iam.asirr">
+<img src="https://skillicons.dev/icons?i=instagram" width="48"/>
 </a>
 
 <a href="https://discord.gg/reaper039897">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=discord" width="48"/>
 </a>
 
 </p>
@@ -101,35 +100,41 @@ I'm a passionate **Full Stack Developer** and **Computer Science Graduate** who 
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=asirrafique&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asirrafique&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=asirrafique&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=asirrafique&theme=algolia&no-frame=true&row=1&column=7"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=asirrafique&theme=algolia&no-frame=true&margin-w=15"/>
+
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
-[![Asir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asirrafique&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asirrafique&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-# ✍️ Random Dev Quote
+## ✍️ Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
