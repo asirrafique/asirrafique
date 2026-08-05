@@ -20,6 +20,8 @@ Building scalable web applications, AI-powered solutions, and continuously learn
 
 ## 💫 About Me
 
+<img align="right" alt="Pacman" width="220" src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" />
+
 - 🚀 Full Stack Developer passionate about building scalable web applications
 - 🤖 Exploring Generative AI, LLMs, AI Agents & MCP
 - 💻 Skilled in MERN Stack, React, Node.js, Express & MongoDB
