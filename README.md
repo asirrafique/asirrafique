@@ -9,6 +9,12 @@ Building scalable web applications, AI-powered solutions, and continuously learn
 </p>
 
 <p align="center">
+  <a href="https://portfolio-asir3.vercel.app">
+    <img src="https://img.shields.io/badge/🌐%20Explore%20My%20Portfolio-111827?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+Generative+AI+Enthusiast;Open+Source+Learner;Always+Learning+New+Technologies" />
 </p>
 
