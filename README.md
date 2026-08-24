@@ -9,7 +9,7 @@ Building scalable web applications, AI-powered solutions, and continuously learn
 </p>
 
 <p align="center">
-  <a href="https://portfolio-asir3.vercel.app">
+  <a href="https://asirportfolio.netlify.app/">
     <img src="https://img.shields.io/badge/🌐%20Explore%20My%20Portfolio-111827?style=for-the-badge&logoColor=white" />
   </a>
 </p>
