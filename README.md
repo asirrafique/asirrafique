@@ -138,6 +138,9 @@ Building scalable web applications, AI-powered solutions, and continuously learn
 
 ## 🚀 Featured Projects
 
+### ✈️ TravelMind AI
+> Multi-agent AI travel planner built with LangGraph, MCP, FastAPI, Groq, Neon PostgreSQL, Redis, and Docker.
+
 ### 🤖 NovaGPT
 
 > Full-stack AI assistant built with React.js, Node.js, Express.js, MongoDB, and Google Gemini API, featuring an MCP-based agent architecture, RAG, document-based Q&A, dynamic tool discovery and execution, Docker, and CI/CD deployment.
@@ -149,10 +152,6 @@ Building scalable web applications, AI-powered solutions, and continuously learn
 ### 🎥 Meetlify
 
 > Real-time video conferencing platform supporting secure authentication, WebRTC video meetings, Socket.IO signaling, screen sharing, live chat, and MongoDB persistence.
-
-### 🎮 Simon Says Game
-
-> Interactive memory game built with HTML, CSS, and JavaScript, showcasing DOM manipulation, animations, and game logic.
 
 ---
 
