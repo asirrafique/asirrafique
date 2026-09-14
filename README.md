@@ -90,7 +90,7 @@ Building scalable web applications, AI-powered solutions, and continuously learn
 ![JWT](https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-## 🤖 AI & Machine Learning
+## 🤖 AI/ML
 ![Python AI](https://img.shields.io/badge/Python_AI-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6A1B9A?style=for-the-badge&logo=bookstack&logoColor=white)
@@ -107,7 +107,7 @@ Building scalable web applications, AI-powered solutions, and continuously learn
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 
-## 🗄️ Databases & Caching
+## 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -126,7 +126,7 @@ Building scalable web applications, AI-powered solutions, and continuously learn
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
 
-## 📚 Core Computer Science Concepts
+## 📚 Core Concepts
 ![Data Structures & Algorithms](https://img.shields.io/badge/DSA-00599C?style=for-the-badge&logo=codeforces&logoColor=white)
 ![Object Oriented Programming](https://img.shields.io/badge/OOP-7952B3?style=for-the-badge&logo=abstract&logoColor=white)
 ![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
