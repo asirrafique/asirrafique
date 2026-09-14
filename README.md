@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Asir Rafique</h1>
 
 <h3 align="center">
-Full Stack Developer • AI Enthusiast • Computer Science Graduate
+Full Stack Developer • AI Engineer • Computer Science Graduate
 </h3>
 
 <p align="center">
@@ -15,7 +15,7 @@ Building scalable web applications, AI-powered solutions, and continuously learn
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+Generative+AI+Enthusiast;Open+Source+Learner;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Engineer;MERN+Stack+Developer;AI+%26+Generative+AI+Enthusiast;Open+Source+Learner;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
